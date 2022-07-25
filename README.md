@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Lucas Azevedo</h1>
-
 <h5 align="center">Skills</h5>
 
 <p align="center">
