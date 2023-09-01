@@ -1,7 +1,6 @@
 
  <hr>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasfsa&show_icons=true&locale=en&layout=compact" alt="lucasfsa" /></p>
-<p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=lucasfsa&show_icons=true&locale=en&count_private=true" alt="lucasfsa" /></p>
 <hr>
 <h5 align="center">Connect with me:</h5>
 <p align="center">
